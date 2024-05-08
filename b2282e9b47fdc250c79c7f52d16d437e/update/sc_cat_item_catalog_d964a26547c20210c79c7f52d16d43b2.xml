@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Request Loaner Vehicle">fd306aed47820210c79c7f52d16d438b</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 18:22:24</sys_created_on>
+        <sys_id>d964a26547c20210c79c7f52d16d43b2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Service Catalog.Request Loaner Vehicle</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1079887_loaner_0">b2282e9b47fdc250c79c7f52d16d437e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">b2282e9b47fdc250c79c7f52d16d437e</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_d964a26547c20210c79c7f52d16d43b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 19:03:13</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
