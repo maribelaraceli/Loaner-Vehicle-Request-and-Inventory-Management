@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="8d8bea9f47fdc250c79c7f52d16d436f" label="Loaner Vehicle Catalog" max_length="40" name="x_1079887_loaner_0_loaner_vehicle_catalog" type="collection">
+        <element attributes="pdf_cell_type=image" label="Image" max_length="40" name="image" type="user_image"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" mandatory="true" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Available" sequence="0" value="available"/>
+                <element inactive_on_update="false" label="Maintenance" sequence="0" value="Maintenance"/>
+                <element inactive_on_update="false" label="Out on Field" sequence="0" value="Out on Field"/>
+                <element inactive_on_update="false" label="Unavailable" sequence="1" value="unavailable"/>
+                <element inactive_on_update="false" label="Decommissioned" sequence="2" value="decommissioned"/>
+            </choice>
+        </element>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Vehicle Trackers" max_length="1024" name="u_glide_list_1" reference="x_1079887_loaner_0_vehicle_tracker" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Vehicle Servicings" max_length="1024" name="u_glide_list_2" reference="x_1079887_loaner_0_vehicle_servicing" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="New List" max_length="1024" name="u_glide_list_3" reference="x_1079887_loaner_0_vehicle_servicing" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="Vehicle MAKE" mandatory="true" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vehicle MODEL" max_length="40" name="u_string_3" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vehicle YEAR" mandatory="true" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vehicle Description" mandatory="true" max_length="1000" name="u_string_5" type="string"/>
+    </element>
+</database>

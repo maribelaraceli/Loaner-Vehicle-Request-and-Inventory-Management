@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="new LVC" language="en" table="x_1079887_loaner_0_new_lvc">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>new LVC</label>
+            <language>en</language>
+            <name>x_1079887_loaner_0_new_lvc</name>
+            <plural>new LVCs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-02 00:38:31</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>new LVC</sys_name>
+            <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1079887_loaner_0">b2282e9b47fdc250c79c7f52d16d437e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory">b2282e9b47fdc250c79c7f52d16d437e</sys_scope>
+            <sys_update_name>sys_documentation_x_1079887_loaner_0_new_lvc__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-02 00:38:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

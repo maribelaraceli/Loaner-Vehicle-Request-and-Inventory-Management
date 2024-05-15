@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="gsw_status_of_content">
+    <gsw_status_of_content action="INSERT_OR_UPDATE">
+        <best_practice_allowed_ever>0</best_practice_allowed_ever>
+        <checksum/>
+        <content display_value="Step1">9a6c8a4453204300d044ddeeff7b12b1</content>
+        <effective_weight>1</effective_weight>
+        <more_info_visited>false</more_info_visited>
+        <previous_status>0</previous_status>
+        <progress>0</progress>
+        <related_log_entry display_value="2024-05-15 10:01:54">d615523347428a10c79c7f52d16d43ea</related_log_entry>
+        <status>1</status>
+        <sys_class_name>gsw_status_of_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-15 16:58:55</sys_created_on>
+        <sys_id>6e649aff47028a10c79c7f52d16d43a0</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1079887_loaner_0">b2282e9b47fdc250c79c7f52d16d437e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">b2282e9b47fdc250c79c7f52d16d437e</sys_scope>
+        <sys_update_name>gsw_status_of_content_6e649aff47028a10c79c7f52d16d43a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-15 17:01:54</sys_updated_on>
+    </gsw_status_of_content>
+</record_update>

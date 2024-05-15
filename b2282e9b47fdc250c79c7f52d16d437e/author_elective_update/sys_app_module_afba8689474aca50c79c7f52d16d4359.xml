@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Loaner Vehicle Request and Inventory">b1e50e01474aca50c79c7f52d16d4345</application>
+        <assessment/>
+        <device_type/>
+        <filter table="x_1079887_loaner_0_vehicle_tracker">u_choice_10=closed^ORu_choice_10=cancelled^EQ<item display_value="Closed" endquery="false" field="u_choice_10" goto="false" newquery="false" operator="=" or="false" value="closed"/>
+            <item display_value="Cancelled" endquery="false" field="u_choice_10" goto="false" newquery="false" operator="=" or="true" value="cancelled"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Closed</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1079887_loaner_0_vehicle_tracker</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-07 03:14:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>afba8689474aca50c79c7f52d16d4359</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1079887_loaner_0">b2282e9b47fdc250c79c7f52d16d437e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">b2282e9b47fdc250c79c7f52d16d437e</sys_scope>
+        <sys_update_name>sys_app_module_afba8689474aca50c79c7f52d16d4359</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-07 03:14:16</sys_updated_on>
+        <timeline_page/>
+        <title>Closed</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Vehicle Request and Inventory">b2282e9b47fdc250c79c7f52d16d437e</application>
+        <file_path/>
+        <instance_id>c2d1f565dbf675d402d9172913961908</instance_id>
+        <instance_name>dev227814</instance_name>
+        <name>sys_app_module_afba8689474aca50c79c7f52d16d4359</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Loaner Vehicle Request and Inventory">b1e50e01474aca50c79c7f52d16d4345</application><assessment/><device_type/><filter table="x_1079887_loaner_0_vehicle_tracker">u_choice_10=closed^ORu_choice_10=cancelled^EQ<item display_value="Closed" endquery="false" field="u_choice_10" goto="false" newquery="false" operator="=" or="false" value="closed"/><item display_value="Cancelled" endquery="false" field="u_choice_10" goto="false" newquery="false" operator="=" or="true" value="cancelled"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Closed</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1079887_loaner_0_vehicle_tracker</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-07 03:14:16</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>afba8689474aca50c79c7f52d16d4359</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Closed</sys_name><sys_overrides/><sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1079887_loaner_0">b2282e9b47fdc250c79c7f52d16d437e</sys_package><sys_policy/><sys_scope display_value="Loaner Vehicle Request and Inventory">b2282e9b47fdc250c79c7f52d16d437e</sys_scope><sys_update_name>sys_app_module_afba8689474aca50c79c7f52d16d4359</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-07 03:14:16</sys_updated_on><timeline_page/><title>Closed</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-2090029626</payload_hash>
+        <record_name>Closed</record_name>
+        <reverted_from/>
+        <source>fd1ba29f47fdc250c79c7f52d16d43cd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-07 03:14:16</sys_created_on>
+        <sys_id>0dfa8e89474aca50c79c7f52d16d43e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f510b77080000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-07 03:14:16</sys_updated_on>
+        <type>Module</type>
+        <update_guid>41fa8e89304aca50d65b788f68e27ae5</update_guid>
+        <update_guid_history>41fa8e89304aca50d65b788f68e27ae5:-2090029626</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Closed">2a0bc6c9474aca50c79c7f52d16d43ba</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-07 03:14:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>a18cbfd5deec47d49e35f9418e81acc4</sys_id>
+        <sys_metadata>afba8689474aca50c79c7f52d16d4359</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Closed</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1079887_loaner_0">b2282e9b47fdc250c79c7f52d16d437e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">b2282e9b47fdc250c79c7f52d16d437e</sys_scope>
+        <sys_scope_delete display_value="">b2c16f3bfd80493c9b5bfb4e237bcf79</sys_scope_delete>
+        <sys_update_name>sys_app_module_afba8689474aca50c79c7f52d16d4359</sys_update_name>
+        <sys_update_version display_value="sys_app_module_afba8689474aca50c79c7f52d16d4359">0dfa8e89474aca50c79c7f52d16d43e5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-07 03:14:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

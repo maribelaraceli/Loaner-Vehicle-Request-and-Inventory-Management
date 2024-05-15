@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="4756b80947c2ca50c79c7f52d16d4381" label="Vehicle Tracker" max_length="40" name="x_1079887_loaner_0_vehicle_tracker" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tracker Status" mandatory="true" max_length="40" name="u_choice_10" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Open" sequence="0" value="open"/>
+                <element inactive_on_update="false" label="Closed" sequence="1" value="closed"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="2" value="cancelled"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Return Vehicle Status" max_length="40" name="u_choice_18" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Returned in Good Condition" sequence="0" value="returned in good condition"/>
+                <element inactive_on_update="false" label="Returned with Minor Issues" sequence="1" value="returned with minor issues"/>
+                <element inactive_on_update="false" label="Returned with Major Issues" sequence="2" value="returned with major issues"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Vehicle Status" mandatory="true" max_length="40" name="u_choice_9" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Pending Release" sequence="0" value="pending release"/>
+                <element inactive_on_update="false" label="Out on Field" sequence="1" value="out on field"/>
+                <element inactive_on_update="false" label="Returned for Inspection" sequence="2" value="returned for inspection"/>
+                <element inactive_on_update="false" label="Sent for Servicing" sequence="3" value="sent for servicing"/>
+                <element inactive_on_update="false" label="Returned to Warehouse" sequence="4" value="retrurned to warehouse"/>
+                <element inactive_on_update="false" label="Decommissioned" sequence="5" value="decommissioned"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Date Requested" max_length="40" name="u_glide_date_13" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Expected Return Date" max_length="40" name="u_glide_date_14" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Actual Return Date" max_length="40" name="u_glide_date_17" type="glide_date"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Vehicle Servicings" max_length="1024" name="u_glide_list_1" reference="x_1079887_loaner_0_vehicle_servicing" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Vehicle Servicings" max_length="1024" name="u_glide_list_2" reference="x_1079887_loaner_0_vehicle_servicing" type="glide_list"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Vehicle Servicings" max_length="1024" name="u_glide_list_3" reference="x_1079887_loaner_0_vehicle_servicing" type="glide_list"/>
+        <element attributes="encode_utf8=false" label="Assigned To" max_length="32" name="u_reference_11" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Location" max_length="32" name="u_reference_12" reference="cmn_location" type="reference"/>
+        <element attributes="encode_utf8=false" label="Request Number" mandatory="true" max_length="32" name="u_reference_5" reference="sc_req_item" type="reference"/>
+        <element attributes="encode_utf8=false" label="Vehicle" mandatory="true" max_length="32" name="u_reference_6" reference="x_1079887_loaner_0_loaner_vehicle_catalog" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Delivery Information" max_length="1000" name="u_string_15" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Additional Comments" max_length="1000" name="u_string_16" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Return Notes" max_length="1000" name="u_string_19" type="string"/>
+        <index name="index">
+            <element name="u_reference_11"/>
+        </index>
+        <index name="index2">
+            <element name="u_reference_12"/>
+        </index>
+        <index name="index3">
+            <element name="u_reference_5"/>
+        </index>
+        <index name="index4">
+            <element name="u_reference_6"/>
+        </index>
+    </element>
+</database>

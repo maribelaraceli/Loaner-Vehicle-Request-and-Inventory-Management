@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Document production services. Create and produce&#13;
+			high-quality, professional documents.&#13; </description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent display_value="Office">109cdff8c6112276003b17991a09ad65</parent>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 18:44:46</sys_created_on>
+        <sys_id>c189a2e947c20210c79c7f52d16d43f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1079887_loaner_0">b2282e9b47fdc250c79c7f52d16d437e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">b2282e9b47fdc250c79c7f52d16d437e</sys_scope>
+        <sys_update_name>sc_category_c189a2e947c20210c79c7f52d16d43f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 18:44:46</sys_updated_on>
+        <title>Services</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=c189a2e947c20210c79c7f52d16d43f8"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes/>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>homepage_image</file_name>
+        <hash/>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1249</size_bytes>
+        <size_compressed>1272</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 18:44:47</sys_created_on>
+        <sys_id>458966e947c20210c79c7f52d16d43f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 18:44:47</sys_updated_on>
+        <table_name>ZZ_YYsc_category</table_name>
+        <table_sys_id>c189a2e947c20210c79c7f52d16d43f8</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="homepage_image" sys_id="458966e947c20210c79c7f52d16d43f7">458966e947c20210c79c7f52d16d43f7</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 18:44:47</sys_created_on>
+        <sys_id>c18966e947c20210c79c7f52d16d43ff</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>AeEEHvuJUE5HDQoaCgAAAA1JSERSAAAASQAAAEgIBgAAALov2HkAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAEg0lEQVR42uzcO2/TUBQA4GtTCfGqvCOkdENiwBnYkJqMTKT/oPkFbQaEUIeoQycG2l+QdGBhIV1ZcH9BjcSCGGoJCcHmBYQKCM5Nj5EVfF++L1vykazQxjjOl3PPfdgNIV100UUXXbQqAtkdn5+ORvCQPdlcpE1/U3t7exE8xLANSr/OYEsPDg5SK0gAtA0PM/zxELZ9wMobiENRdmAbMXahQEOAyo0irQCVP5UJQC0alDkzDk5tICESA6gcC8TKPALFeI6xDSAaoeD5SPA8/eTOALPnOYOsAQmRIENo/UkkIHc8JZJ1IJlMojGR2GcbsilynEUDWzVIGQm7/H2JbBo5zqKpCyDZTCq6fVFxnrrKJsii3soY6D+kOkBw3FFtJBwTjQW70RN/6whqIGr+8IZnikAzVk8um0kUihbwLUEhjx1ByfSm0lC4Hx3uRJil9ZAQagHbEP65AdvcMxQxAVUCYn4AYZ1XpoNH2Gjz68OWtxWqAkircPN6vmEboThAqVEkj1CpDhQHKK/qFUMTZ+wB6rFGRp1zmtjCeHPzASVbR2r2jMdWkVxAGQDiRQJNLbGOZBPKMlDOm6OGNl7RNJRloOUknresG1h8YbpotwQh1etSS0jRMrADoDEAzXk7WEXShbIMlCKQcDhhHakulEUg2s2fiLLHOZIqlCZQUQ+L+vcvWL1XY5BkofI3917oAplabPOCJIL69u5O/vPretQkIC9ILKjv72+Ti8+1x5nWgLwhrUI1GcgrUgEFQGdNBqKx5hMJirTO9TonQF4zSaebv3LrB7l298vw2ehl4uJcgzYC3XyQkWDtt9S0ppVIhoCU5n+tQtIdSa9vfkjDq7+2GcscC1tYQVuAiiINPSLvOMkK3tgEXNAmoNLQQfZ4Rppj0PQadOP+p8nTR68OK8ZYzqCCJgOVijRtNnNfUIEmAr0Lg17e6eGyRIQnlOEuIwNARXiDCmri7JLL+4NsXJ1N1x9+PA6vX1Qd3wtUoIgT4aQ0ttRCy70Ya0nFOVSgCHRG5G57MdWLxfiaxCdUqJhBzoBo4KWpecX+M7x9mqzsPybsW4LKoXRZS/a629RFE2M8f8T4vTOoQCKLaPacewIqmtEfztPWm55MJu34BKqYbjjPKBmkAe9NkupL2TIxUVgwE9VCq1Ch5AFYWZBoQA0U9pUpsCagdpWR8K57bjPBy8Q6GSUTssfXhdrU6d24dcQ2lOAuFZNQuS4St9C2AYpcLs5lnP93ooxUunYu1RMpQuWuobCbzzjnU/ueyblCV60ClbjOKJzmsAbFR6yxkrX1JCj6rzlLJRlgbugcX3DzRdUHkuLgsvJmDQDq605L6iy28daSjh3XqAF27xGjmY1NzN1UgXjTAVoTDj0Uc+agVvRn/KFjoOVcy+SlaU2oynmfNSQFoMR09taEkgIyVrglgHIEsvo9ApLFnDb3LZVvyggdANFPq28bSDKjaC3sq36ViO7Vkh4upcQ4U+9hd0tP8pQOzgAnI44DM2qKPWyC5zL3+SUPXXTRRRdddNGs+CvAAAol3GJS32ptAAAAAElFTkSuQmCCZeWf5uEEAAA=
+		</data>
+        <length>1684</length>
+        <position>1</position>
+        <sys_attachment display_value="homepage_image" sys_id="458966e947c20210c79c7f52d16d43f7">458966e947c20210c79c7f52d16d43f7</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 18:44:47</sys_created_on>
+        <sys_id>898966e947c20210c79c7f52d16d43ff</sys_id>
+    </sys_attachment_doc>
+</record_update>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_1079887_loaner_0_loaner_vehicle_catalog" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Loaner Vehicle Catalog - Default view" name="x_1079887_loaner_0_loaner_vehicle_catalog" related_list="NULL" sys_domain="global" view="Default view">b2f3da85478aca50c79c7f52d16d43da</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_1079887_loaner_0_vehicle_servicing.u_reference_2</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 03:53:43</sys_created_on>
+            <sys_id>faf3da85478aca50c79c7f52d16d43da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 03:53:43</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Loaner Vehicle Catalog - Default view" name="x_1079887_loaner_0_loaner_vehicle_catalog" related_list="NULL" sys_domain="global" view="Default view">b2f3da85478aca50c79c7f52d16d43da</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_1079887_loaner_0_vehicle_tracker.u_reference_6</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 03:53:43</sys_created_on>
+            <sys_id>fef3da85478aca50c79c7f52d16d43da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 03:53:43</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Loaner Vehicle Catalog - Default view</calculated_name>
+            <filter/>
+            <name>x_1079887_loaner_0_loaner_vehicle_catalog</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-07 03:53:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b2f3da85478aca50c79c7f52d16d43da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Loaner Vehicle Catalog - Default view</sys_name>
+            <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1079887_loaner_0">b2282e9b47fdc250c79c7f52d16d437e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Vehicle Request and Inventory">b2282e9b47fdc250c79c7f52d16d437e</sys_scope>
+            <sys_update_name>sys_ui_related_x_1079887_loaner_0_loaner_vehicle_catalog_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-07 03:53:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

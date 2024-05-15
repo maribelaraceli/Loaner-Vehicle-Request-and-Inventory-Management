@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Office services such as printing, supplies requisition
+			and document shipping and delivery.
+		</description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 18:45:44</sys_created_on>
+        <sys_id>4fb92a2947c20210c79c7f52d16d4360</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office</sys_name>
+        <sys_package display_value="Loaner Vehicle Request and Inventory" source="x_1079887_loaner_0">b2282e9b47fdc250c79c7f52d16d437e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Vehicle Request and Inventory">b2282e9b47fdc250c79c7f52d16d437e</sys_scope>
+        <sys_update_name>sc_category_4fb92a2947c20210c79c7f52d16d4360</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 18:45:44</sys_updated_on>
+        <title>Office</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=4fb92a2947c20210c79c7f52d16d4360"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes/>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>homepage_image</file_name>
+        <hash/>
+        <image_height/>
+        <image_width/>
+        <size_bytes>441</size_bytes>
+        <size_compressed>459</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 18:45:45</sys_created_on>
+        <sys_id>dbb92a2947c20210c79c7f52d16d4363</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-08 18:45:45</sys_updated_on>
+        <table_name>ZZ_YYsc_category</table_name>
+        <table_sys_id>4fb92a2947c20210c79c7f52d16d4360</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="homepage_image" sys_id="dbb92a2947c20210c79c7f52d16d4363">dbb92a2947c20210c79c7f52d16d4363</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 18:45:45</sys_created_on>
+        <sys_id>dfb9aae947c20210c79c7f52d16d43a1</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSnkDswcEGJHfp36gEUpIlrhElwflpJeWJRakMjin5SakKnrmJ6alBqYkplYUnU20YGBijPV0cQypuvZlznrPZQKR9a4VuSUvfA7arniWt82wz+Oftbpq7ZFejsoXTQu4vrDZfkrbUL+qssxfg9vT4ceL3z08KX21aBJwycj+V9kZOW/rJSm/Dul06p2+JeRz0qFby33Lh1prGLcozGlhUFBg5PVYHf0j8v9lmrVqsB29vKVeQ9ZQnno8kJWW8dzz0dGASYpq0c/3t0H0u/Y3bFh/c6OfIVT9DW+XOBxWbk1m2n11SH3+fuaz7+/Tos35Kdxqe9KgfnTW5RnH9n/vJ1f0fbnq2SGs2FHpqrFL2trpcMjXC6bnMkn8x08+bTP+0v6/g8OQ3H1S8VIVdVrIAnQG0aoLZTPWzcVqJ6oJ5IIuFJuR4MOboTF2xZdHMG9+f1BaGp/EuneT2aX2S13E7+W4OcxuILoEJUJ843FpybBXDq3tvEhtLS/P3X917tyLpvmHovH/vbaO2sThxrHXQZ2Rj+GoQdrLuwsz1DKDYcfVzWeeU0AQAlvWxBLkBAAA=
+		</data>
+        <length>600</length>
+        <position>1</position>
+        <sys_attachment display_value="homepage_image" sys_id="dbb92a2947c20210c79c7f52d16d4363">dbb92a2947c20210c79c7f52d16d4363</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-08 18:45:45</sys_created_on>
+        <sys_id>53b9aae947c20210c79c7f52d16d43a2</sys_id>
+    </sys_attachment_doc>
+</record_update>
